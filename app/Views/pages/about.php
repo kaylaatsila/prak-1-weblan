@@ -1,1 +1,1 @@
-<p>ini adalah <b>about</b> 💁‍♀️</p>
+<p class="px-4 my-3">ini adalah <b>about</b> 💁‍♀️</p>
