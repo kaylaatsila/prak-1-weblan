@@ -1,1 +1,1 @@
-<p class="px-4 my-3">ini adalah <b>home</b> 🏠</p>
+<p>ini adalah <b>home</b> 🏠</p>

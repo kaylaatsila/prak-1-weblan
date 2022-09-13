@@ -2,16 +2,18 @@
 
 namespace App\Controllers;
 
+use App\Controllers\BaseController;
+
 class Pages extends BaseController
 {
     public function index()
     {
-        return view('index');
+        return view('indexh');
     }
 
     public function view($page = 'home')
     {
-        if (! is_file(APPPATH . 'Views/pages/' . $page . '.php')) {
+        if (!is_file(APPPATH . 'Views/pages/' . $page . '.php')) {
             throw new \CodeIgniter\Exceptions\PageNotFoundException($page);
         }
 

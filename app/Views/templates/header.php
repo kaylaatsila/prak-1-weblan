@@ -34,4 +34,6 @@
         </div>
     </nav>
 
-    <h1 class="px-4 my-3"><?= esc($title) ?></h1>
+    <h1 class="px-4 my-4"><?= esc($title) ?></h1>
+
+    <div class="px-4 my-3">

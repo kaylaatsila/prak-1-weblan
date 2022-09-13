@@ -1,3 +1,5 @@
+</div>
+
 <em class="px-4 my-3">&copy; Kayla, 2022</em>
 
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.bundle.min.js"
