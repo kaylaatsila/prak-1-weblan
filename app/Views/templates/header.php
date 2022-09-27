@@ -2,7 +2,7 @@
 <html>
 
 <head>
-    <title>Prak. 1 - Web Lanjut - Kayla</title>
+    <title>Prak. Web Lanjut - Kayla</title>
 
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap"
         rel="stylesheet">
